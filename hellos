@@ -1,0 +1,22 @@
+print("hello")
+
+  
+#include <stdio.h>
+int main {
+  printf("hello");
+  return 0;
+}
+
+
+public class Hello {
+  public static void main(String []args) {
+    System.out.println("hello");
+  }
+}
+
+
+package main
+import "fmt"
+func main() {
+  fmt.Println("hello")
+}
